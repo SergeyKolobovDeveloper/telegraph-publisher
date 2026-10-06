@@ -1,0 +1,11 @@
+# Динамічні файли проєкту
+token.txt
+result.csv
+
+# Системні файли Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Системні файли macOS (про всяк випадок)
+.DS_Store
